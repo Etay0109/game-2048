@@ -6,11 +6,11 @@ This version adds multiple stages and supports keyboard commands (R, L, D, U) fo
 ## Game Overview
 
 - 2048 is a single-player sliding tile puzzle game.
- 🎯 The goal is to combine tiles through the stages until you reach 2048.
+- 🎯 The goal is to combine tiles through the stages until you reach 2048.
 - Stage 1: Reach the tile 16 ⭐
 - Stage 2: Reach the tile 32 ⭐⭐ 
 - Stage 3: Reach the tile 2048 ⭐⭐⭐
-👉 Each time you win one board, you automatically advance to the next stage.
+- 👉 Each time you win one board, you automatically advance to the next stage.
 
 ## 🎮 How to Play
 
