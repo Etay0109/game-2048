@@ -34,7 +34,7 @@ You can use the following keys to move the tiles:
 
 ## 🖼️ Demo
 
-<img src="screenShot.png" alt="Game Demo" width="400" height= "250"/>
+<img src="screenShot.png" alt="Game Demo" width="400" height= "350"/>
 
 
 ## Getting Started
